@@ -1,0 +1,5 @@
+// Solution to the first task of the Edulypta Challenge
+// The first task asks the user to create a module that
+// prints "Hello World" on the kernel, after buildig it
+// This task also asks for the CMake file with all tags
+
